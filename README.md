@@ -18,9 +18,7 @@ For datasets, we can choose MNIST or CIFAR-10. The code can automatically downlo
 
 To show the convergence trajectory of SGD and ADAM in terms of noise and the training/test accuracy, you can directly run "plot_CIFAR10.py".
 
-<p align="center">
-  <img src="./exp_data/comparison.png" width="700">
-</p>
+My running resluts are provided in model/ and log_out/.
 
 ## License
 
